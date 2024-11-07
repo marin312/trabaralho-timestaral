@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(67, 92, 67);
+ }
+ 
+ 
+ h1{
+    justify-content: center;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+ }
+ 
+ 
+ 
+ 
+ .card-img-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+ 
+ #tribo {
+    justify-content: center;
+    margin-top: 10px;
+ }
+ 
